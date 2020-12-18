@@ -1,0 +1,1 @@
+This is a simple tutorial from The Odin Project where I will recreate the google home page. 
